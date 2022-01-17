@@ -1,3 +1,10 @@
+"""
+    @author      : Vivek Anand
+    @create date : Mon, Jan 16, 2022, 23:55
+    @modify date : Mon, Jan 17, 2022, 21:30
+    @description : [description]
+"""
+
 from typing import Union, Any
 
 class Journal:
